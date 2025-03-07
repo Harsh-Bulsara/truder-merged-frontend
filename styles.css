@@ -835,6 +835,7 @@ nav ul li a.active::after {
     .about-content p,
     .why-content p {
         font-size: 5vw;
+        text-align: justify;
     }
 
     .read-more-button {
@@ -853,7 +854,7 @@ nav ul li a.active::after {
     .text-content, 
     .image-content {
         width: 100%;
-        text-align: center;
+        text-align: justify;
     }
 
     .text-content h2 {
@@ -861,7 +862,7 @@ nav ul li a.active::after {
     }
 
     .mission ul {
-        text-align: center;
+        text-align: justify;
         padding-left: 0;
     }
 
