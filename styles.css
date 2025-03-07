@@ -192,6 +192,7 @@ nav ul li a.active::after {
 .about-content p {
     font-size: 16px;
     color: #333;
+    text-align: justify;
 }
 
 /* Read More Button */
@@ -255,7 +256,7 @@ nav ul li a.active::after {
 /* Text on the left */
 .text-content {
     width: 55%;
-    text-align: center;
+    text-align: justify;
 }
 
 .text-content h2 {
@@ -275,7 +276,7 @@ nav ul li a.active::after {
 
 /* Mission List Styling */
 .mission ul {
-    text-align: center;
+    text-align: justify;
     padding-left: 20px;
 }
 
@@ -434,6 +435,7 @@ nav ul li a.active::after {
     font-size: 16px;
     color: #333;
     line-height: 1.6;
+    text-align: justify;
 }
 
 /* Why Truders Image */
